@@ -1,0 +1,11 @@
+{
+    "icon_url": "https://lisbon.net.solidwallet.io/api/v3",
+    "icon_pk": "...",
+    "loans": "cx87e73719307199fa01426d0feff528d6f3fbfe07",
+    "oracle": "cxeda795dcd69fe3d2e6c88a6473cdfe5532a3393e",
+    "auto_liquidator": "cxf1100f2b7c50764447a93303bb01f2bb7a6d4d01",
+    "bnUSD": "cx87f7f8ceaa054d46ba7343a2ecd21208e12913c6",
+    "nid": "0x2",
+    "sync_interval": "1000",
+    "check_interval": "30"
+}
